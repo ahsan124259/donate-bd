@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 10px;
+}
+
+.blue-color {
+    color: blue;
+    text-align: center;
+    font-weight: 700;
+}
+
+.normal-color {
+    color: black;
+    text-align: center;
+    font-weight: 200;
+}
+
+.Donate-link {
+    color: orange;
+    border: 10px solid;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    text-align: center;
+
+}
+
+.small {
+    color: rgb(87, 147, 201);
+    text-align: center;
+}
+
+.Donate-link {
+    color: orange;
+    border: 10px solid;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.sec-4 {
+    display: flex;
+    width: 100%;
+}
+
