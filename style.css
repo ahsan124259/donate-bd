@@ -1,8 +1,9 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 10px;
+    margin: 0px;
 }
 
+.
 .blue-color {
     color: blue;
     text-align: center;
@@ -41,8 +42,94 @@ body {
     text-align: center;
 }
 
-.sec-4 {
+.donation {
     display: flex;
-    width: 100%;
+
 }
 
+.donation {
+    display: flex;
+    width: 50%;
+    margin: 10px;
+    background-color: white;
+    height: 300px;
+    width: 1600px;
+    margin-bottom: 150px;
+
+
+
+}
+
+.banner {
+    background-image: url(images/flood-bd.jpg);
+   
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 1600px;
+    
+
+}
+
+.footer {
+    background-color: black;
+    height: 300px;
+    width: 1600px;
+    text-align: center;
+}
+
+.footer-part {
+    text-align: center;
+}
+
+.footer-part h1 {
+    color: red;
+}
+
+.footer-part h4 {
+    color: white;
+}
+
+.sec-5 {
+    background-color: white;
+    height: 300px;
+    width: 1600px;
+    text-align: center;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.form-item {
+    background-color: bisque;
+    height: 200px;
+    width: 400px;
+    margin-left: 300px;
+    margin-right: 250px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.sec-5 h1 {
+    color: black;
+    font-weight: 700;
+}
+
+.sec-5 h2 {
+    color: black;
+    font-weight: 200;
+}
+
+.sec-4 {
+    background-color: red;
+    height: 900px;
+    width: 1600px;
+
+    margin-bottom: 300px;
+
+}
+
+.sec-f4 flex {
+    display: block;
+
+
+}
