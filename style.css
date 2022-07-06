@@ -3,133 +3,103 @@ body {
     margin: 0px;
 }
 
-.
-.blue-color {
-    color: blue;
-    text-align: center;
-    font-weight: 700;
-}
-
-.normal-color {
-    color: black;
-    text-align: center;
-    font-weight: 200;
-}
-
-.Donate-link {
-    color: orange;
-    border: 10px solid;
-    text-decoration: none;
-    font-size: 25px;
-    padding: 5px 10px;
-    border-radius: 50px;
-    text-align: center;
-
-}
-
-.small {
-    color: rgb(87, 147, 201);
-    text-align: center;
-}
-
-.Donate-link {
-    color: orange;
-    border: 10px solid;
-    text-decoration: none;
-    font-size: 25px;
-    padding: 5px 10px;
-    border-radius: 50px;
-    text-align: center;
-}
-
-.donation {
-    display: flex;
-
-}
-
-.donation {
-    display: flex;
-    width: 50%;
-    margin: 10px;
-    background-color: white;
-    height: 300px;
-    width: 1600px;
-    margin-bottom: 150px;
-
-
-
-}
-
-.banner {
-    background-image: url(images/flood-bd.jpg);
-   
+.top-banner {
+    width: 1500px;
+    height: 400px;
+    background-image: url(images/donation4.jpg);
     background-repeat: no-repeat;
-    height: 300px;
-    width: 1600px;
-    
+    background-size: 80vh;
+    background-size: cover;
 
 }
 
-.footer {
-    background-color: black;
-    height: 300px;
-    width: 1600px;
+.heading {
     text-align: center;
-}
-
-.footer-part {
-    text-align: center;
-}
-
-.footer-part h1 {
+    justify-items: center;
     color: red;
+
 }
 
-.footer-part h4 {
-    color: white;
+.donate {
+    color: orange;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 400;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-style: bold;
+    border: 10px solid;
 }
 
-.sec-5 {
-    background-color: white;
-    height: 300px;
-    width: 1600px;
+.part-2 {
+    width: 1300px;
+    height: 400px;
+    background-size: 80vh;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+
+.heading-02 {
     text-align: center;
-    display: block;
-    margin-bottom: 30px;
 }
 
-.form-item {
-    background-color: bisque;
-    height: 200px;
-    width: 400px;
-    margin-left: 300px;
-    margin-right: 250px;
-    margin-bottom: 10px;
-    margin-top: 15px;
+.form-box {
+    display: flex;
+    justify-content: space-evenly;
+    background: none;
+
+    margin: 10px 15px width: 20px;
+    height: 100px;
+
+}
+
+#box-1 {
+    background: whitesmoke;
     text-align: center;
-}
-
-.sec-5 h1 {
-    color: black;
     font-weight: 700;
+    font-size: large;
 }
 
-.sec-5 h2 {
-    color: black;
-    font-weight: 200;
+#box-2 {
+    background: orange;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
 }
 
-.sec-4 {
-    background-color: red;
-    height: 900px;
-    width: 1600px;
-
-    margin-bottom: 300px;
-
+#box-3 {
+    background: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
 }
 
-.sec-f4 flex {
-    display: block;
+#box-4 {
+    background: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+}
 
+#box-5 {
+    background: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+}
 
+.other-amount {
+    text-align: center;
+    color: blue;
+}
+
+.Donate-link {
+    color: red;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 400;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-style: bold;
+    border-style: solid;
 }
