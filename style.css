@@ -6,7 +6,7 @@ body {
 .top-banner {
     width: 1500px;
     height: 400px;
-    background-image: url(images/donation4.jpg);
+    background-image: url(images/flood-bd.jpg);
     background-repeat: no-repeat;
     background-size: 80vh;
     background-size: cover;
@@ -175,8 +175,9 @@ body {
 .heading-update {
     text-align: center;
 }
-.text{
-    color:blue
+
+.text {
+    color: blue
 }
 
 .email {
@@ -204,6 +205,6 @@ body {
 
 }
 
-.text-1{
+.text-1 {
     color: aliceblue;
 }
