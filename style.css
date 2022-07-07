@@ -27,8 +27,6 @@ body {
 }
 
 .donate {
-
-    color: red;
     padding: 5px 10px;
     text-decoration: none;
     font-size: 400;
@@ -36,6 +34,7 @@ body {
     margin-bottom: 15px;
     font-style: bold;
     border: 10px solid;
+    background: red;
 }
 
 .part-2 {
@@ -101,7 +100,7 @@ body {
 }
 
 .Donate-link {
-    color: red;
+    background-color: yellow;
     padding: 5px 10px;
     text-decoration: none;
     font-size: 400;
@@ -146,13 +145,11 @@ body {
 }
 
 .part-4 {
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 .depent {
     display: flex;
-
-
 }
 
 .flex-left {
@@ -161,14 +158,14 @@ body {
 }
 
 .Contribute {
-    color: blue;
     padding: 5px 10px;
     text-decoration: none;
     font-size: 400;
     margin-top: 10px;
     margin-bottom: 15px;
     font-style: bold;
-    border-style: solid;
+    border: 10px solid;
+    background: red;
 }
 
 .part-05 {
@@ -177,6 +174,9 @@ body {
 
 .heading-update {
     text-align: center;
+}
+.text{
+    color:blue
 }
 
 .email {
@@ -193,7 +193,7 @@ body {
 }
 
 .part-06 {
-    margin-top: 100px;
+    margin-top: 80px;
 
 }
 
@@ -202,4 +202,8 @@ body {
     background-color: black;
     color: red;
 
+}
+
+.text-1{
+    color: aliceblue;
 }
